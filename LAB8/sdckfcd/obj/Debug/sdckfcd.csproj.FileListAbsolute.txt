@@ -1,0 +1,8 @@
+C:\Users\Asus\OneDrive\Рабочий стол\sdckfcd\sdckfcd\bin\Debug\sdckfcd.exe.config
+C:\Users\Asus\OneDrive\Рабочий стол\sdckfcd\sdckfcd\bin\Debug\sdckfcd.exe
+C:\Users\Asus\OneDrive\Рабочий стол\sdckfcd\sdckfcd\bin\Debug\sdckfcd.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\sdckfcd\sdckfcd\obj\Debug\sdckfcd.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\sdckfcd\sdckfcd\obj\Debug\sdckfcd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Рабочий стол\sdckfcd\sdckfcd\obj\Debug\sdckfcd.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\sdckfcd\sdckfcd\obj\Debug\sdckfcd.exe
+C:\Users\Asus\OneDrive\Рабочий стол\sdckfcd\sdckfcd\obj\Debug\sdckfcd.pdb

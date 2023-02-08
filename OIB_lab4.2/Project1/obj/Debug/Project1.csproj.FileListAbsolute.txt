@@ -1,0 +1,7 @@
+D:\ОИБ\OIB_lab4.2\Project1\bin\Debug\Project1.exe.config
+D:\ОИБ\OIB_lab4.2\Project1\bin\Debug\Project1.exe
+D:\ОИБ\OIB_lab4.2\Project1\bin\Debug\Project1.pdb
+D:\ОИБ\OIB_lab4.2\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\ОИБ\OIB_lab4.2\Project1\obj\Debug\Project1.exe
+D:\ОИБ\OIB_lab4.2\Project1\obj\Debug\Project1.pdb
+D:\ОИБ\OIB_lab4.2\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache

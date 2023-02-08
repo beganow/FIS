@@ -1,0 +1,46 @@
+.button {
+  border: 1px solid black;
+  width: auto;
+  display: block;
+  border-radius: 3px;
+  text-align: center;
+  font-weight: 300;
+  font-size: 1rem;
+  color: black;
+  user-select: none;
+  cursor: pointer;
+  background-color: rgb(173, 5, 5);
+  margin-top: 10px;
+}
+
+.button:hover {
+  box-shadow: inset 3px 3px 3px 0px rgba(0, 0, 0, 0.75);
+}
+
+body {
+  background-color: #e9e9e9;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4rem;
+  justify-content: space-around;
+}
+
+.message {
+  height: 20px;
+  border-radius: 5px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

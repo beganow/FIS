@@ -1,0 +1,7 @@
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\bin\Debug\OIB_lab4.2.exe.config
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\bin\Debug\OIB_lab4.2.exe
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\bin\Debug\OIB_lab4.2.pdb
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.csproj.AssemblyReference.cache
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.csproj.CoreCompileInputs.cache
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.exe
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.pdb
